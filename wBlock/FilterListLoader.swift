@@ -11,7 +11,7 @@ import wBlockCoreService
 class FilterListLoader {
     private let logManager: ConcurrentLogManager
     private let customFilterListsKey = "customFilterLists"
-    private let sharedContainerIdentifier = "group.skula.wBlock"
+    private let sharedContainerIdentifier = "group.syferlab.wBlock"
 
     // Cache the defaults instance
     private let defaults: UserDefaults
