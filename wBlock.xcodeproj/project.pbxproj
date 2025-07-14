@@ -1596,7 +1596,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 108;
 				DEAD_CODE_STRIPPING = YES;
-				DEVELOPMENT_TEAM = DNP7DGUB7B;
+				DEVELOPMENT_TEAM = 5ZPWU6AY92;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_OUTGOING_NETWORK_CONNECTIONS = YES;
@@ -1604,6 +1604,7 @@
 				ENABLE_USER_SELECTED_FILES = readwrite;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = wBlock/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Syfer Blocker";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
@@ -1620,7 +1621,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = skula.wBlock;
+				PRODUCT_BUNDLE_IDENTIFIER = syferlab.wBlock;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = auto;
@@ -1628,7 +1629,7 @@
 				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 				XROS_DEPLOYMENT_TARGET = 2.0;
 			};
 			name = Debug;
@@ -1642,7 +1643,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 108;
 				DEAD_CODE_STRIPPING = YES;
-				DEVELOPMENT_TEAM = DNP7DGUB7B;
+				DEVELOPMENT_TEAM = 5ZPWU6AY92;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_OUTGOING_NETWORK_CONNECTIONS = YES;
@@ -1650,6 +1651,7 @@
 				ENABLE_USER_SELECTED_FILES = readwrite;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = wBlock/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Syfer Blocker";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
@@ -1666,7 +1668,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = skula.wBlock;
+				PRODUCT_BUNDLE_IDENTIFIER = syferlab.wBlock;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = auto;
@@ -1674,7 +1676,7 @@
 				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 				XROS_DEPLOYMENT_TARGET = 2.0;
 			};
 			name = Release;
@@ -1808,7 +1810,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = YES;
-				DEVELOPMENT_TEAM = DNP7DGUB7B;
+				DEVELOPMENT_TEAM = 5ZPWU6AY92;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -1829,7 +1831,7 @@
 				MARKETING_VERSION = 1.0;
 				MODULE_VERIFIER_SUPPORTED_LANGUAGES = "objective-c objective-c++";
 				MODULE_VERIFIER_SUPPORTED_LANGUAGE_STANDARDS = "gnu17 gnu++20";
-				PRODUCT_BUNDLE_IDENTIFIER = skula.wBlockCoreService;
+				PRODUCT_BUNDLE_IDENTIFIER = syferlab.wBlockCoreService;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = auto;
 				SKIP_INSTALL = YES;
@@ -1855,7 +1857,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = YES;
-				DEVELOPMENT_TEAM = DNP7DGUB7B;
+				DEVELOPMENT_TEAM = 5ZPWU6AY92;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -1876,7 +1878,7 @@
 				MARKETING_VERSION = 1.0;
 				MODULE_VERIFIER_SUPPORTED_LANGUAGES = "objective-c objective-c++";
 				MODULE_VERIFIER_SUPPORTED_LANGUAGE_STANDARDS = "gnu17 gnu++20";
-				PRODUCT_BUNDLE_IDENTIFIER = skula.wBlockCoreService;
+				PRODUCT_BUNDLE_IDENTIFIER = syferlab.wBlockCoreService;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = auto;
 				SKIP_INSTALL = YES;
@@ -1900,7 +1902,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 108;
 				DEAD_CODE_STRIPPING = YES;
-				DEVELOPMENT_TEAM = DNP7DGUB7B;
+				DEVELOPMENT_TEAM = 5ZPWU6AY92;
 				ENABLE_HARDENED_RUNTIME = NO;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "wBlock Filters/Info.plist";
@@ -1913,7 +1915,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = "skula.wBlock.wBlock-Ads-Privacy";
+				PRODUCT_BUNDLE_IDENTIFIER = "syferlab.wBlock.wBlock-Ads-Privacy";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = macosx;
@@ -1930,7 +1932,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 108;
 				DEAD_CODE_STRIPPING = YES;
-				DEVELOPMENT_TEAM = DNP7DGUB7B;
+				DEVELOPMENT_TEAM = 5ZPWU6AY92;
 				ENABLE_HARDENED_RUNTIME = NO;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "wBlock Filters/Info.plist";
@@ -1943,7 +1945,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = "skula.wBlock.wBlock-Ads-Privacy";
+				PRODUCT_BUNDLE_IDENTIFIER = "syferlab.wBlock.wBlock-Ads-Privacy";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = macosx;
@@ -1959,7 +1961,7 @@
 				CODE_SIGN_ENTITLEMENTS = "wBlock Filters (iOS)/wBlock Filters (iOS).entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 108;
-				DEVELOPMENT_TEAM = DNP7DGUB7B;
+				DEVELOPMENT_TEAM = 5ZPWU6AY92;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "wBlock Filters (iOS)/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "wBlock Ads";
@@ -1971,7 +1973,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = "skula.wBlock.wBlock-Ads-iOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "syferlab.wBlock.wBlock-Ads-iOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -1990,7 +1992,7 @@
 				CODE_SIGN_ENTITLEMENTS = "wBlock Filters (iOS)/wBlock Filters (iOS).entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 108;
-				DEVELOPMENT_TEAM = DNP7DGUB7B;
+				DEVELOPMENT_TEAM = 5ZPWU6AY92;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "wBlock Filters (iOS)/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "wBlock Ads";
@@ -2002,7 +2004,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = "skula.wBlock.wBlock-Ads-iOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "syferlab.wBlock.wBlock-Ads-iOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -2022,7 +2024,7 @@
 				CODE_SIGN_ENTITLEMENTS = "wBlock Scripts (iOS)/wBlock Scripts (iOS).entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 108;
-				DEVELOPMENT_TEAM = DNP7DGUB7B;
+				DEVELOPMENT_TEAM = 5ZPWU6AY92;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "wBlock Scripts (iOS)/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "wBlock Scripts";
@@ -2038,7 +2040,7 @@
 					"-framework",
 					SafariServices,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "skula.wBlock.wBlock-Scripts--iOS-";
+				PRODUCT_BUNDLE_IDENTIFIER = "syferlab.wBlock.wBlock-Scripts--iOS-";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -2057,7 +2059,7 @@
 				CODE_SIGN_ENTITLEMENTS = "wBlock Scripts (iOS)/wBlock Scripts (iOS).entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 108;
-				DEVELOPMENT_TEAM = DNP7DGUB7B;
+				DEVELOPMENT_TEAM = 5ZPWU6AY92;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "wBlock Scripts (iOS)/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "wBlock Scripts";
@@ -2073,7 +2075,7 @@
 					"-framework",
 					SafariServices,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "skula.wBlock.wBlock-Scripts--iOS-";
+				PRODUCT_BUNDLE_IDENTIFIER = "syferlab.wBlock.wBlock-Scripts--iOS-";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -2094,7 +2096,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 108;
 				DEAD_CODE_STRIPPING = YES;
-				DEVELOPMENT_TEAM = DNP7DGUB7B;
+				DEVELOPMENT_TEAM = 5ZPWU6AY92;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_INCOMING_NETWORK_CONNECTIONS = YES;
@@ -2115,7 +2117,7 @@
 					"-framework",
 					SafariServices,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "skula.wBlock.wBlock-Advanced";
+				PRODUCT_BUNDLE_IDENTIFIER = "syferlab.wBlock.wBlock-Advanced";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = macosx;
@@ -2132,7 +2134,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 108;
 				DEAD_CODE_STRIPPING = YES;
-				DEVELOPMENT_TEAM = DNP7DGUB7B;
+				DEVELOPMENT_TEAM = 5ZPWU6AY92;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_INCOMING_NETWORK_CONNECTIONS = YES;
@@ -2153,7 +2155,7 @@
 					"-framework",
 					SafariServices,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "skula.wBlock.wBlock-Advanced";
+				PRODUCT_BUNDLE_IDENTIFIER = "syferlab.wBlock.wBlock-Advanced";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = macosx;
@@ -2170,7 +2172,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 108;
 				DEAD_CODE_STRIPPING = YES;
-				DEVELOPMENT_TEAM = DNP7DGUB7B;
+				DEVELOPMENT_TEAM = 5ZPWU6AY92;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
@@ -2185,7 +2187,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = "skula.wBlock.wBlock-Security-Multipurpose";
+				PRODUCT_BUNDLE_IDENTIFIER = "syferlab.wBlock.wBlock-Security-Multipurpose";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = macosx;
@@ -2202,7 +2204,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 108;
 				DEAD_CODE_STRIPPING = YES;
-				DEVELOPMENT_TEAM = DNP7DGUB7B;
+				DEVELOPMENT_TEAM = 5ZPWU6AY92;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
@@ -2217,7 +2219,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = "skula.wBlock.wBlock-Security-Multipurpose";
+				PRODUCT_BUNDLE_IDENTIFIER = "syferlab.wBlock.wBlock-Security-Multipurpose";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = macosx;
@@ -2234,7 +2236,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 108;
 				DEAD_CODE_STRIPPING = YES;
-				DEVELOPMENT_TEAM = DNP7DGUB7B;
+				DEVELOPMENT_TEAM = 5ZPWU6AY92;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
@@ -2249,7 +2251,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = "skula.wBlock.wBlock-Annoyances";
+				PRODUCT_BUNDLE_IDENTIFIER = "syferlab.wBlock.wBlock-Annoyances";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = macosx;
@@ -2266,7 +2268,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 108;
 				DEAD_CODE_STRIPPING = YES;
-				DEVELOPMENT_TEAM = DNP7DGUB7B;
+				DEVELOPMENT_TEAM = 5ZPWU6AY92;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
@@ -2281,7 +2283,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = "skula.wBlock.wBlock-Annoyances";
+				PRODUCT_BUNDLE_IDENTIFIER = "syferlab.wBlock.wBlock-Annoyances";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = macosx;
@@ -2298,7 +2300,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 108;
 				DEAD_CODE_STRIPPING = YES;
-				DEVELOPMENT_TEAM = DNP7DGUB7B;
+				DEVELOPMENT_TEAM = 5ZPWU6AY92;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
@@ -2313,7 +2315,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = "skula.wBlock.wBlock-Foreign-Experimental";
+				PRODUCT_BUNDLE_IDENTIFIER = "syferlab.wBlock.wBlock-Foreign-Experimental";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = macosx;
@@ -2330,7 +2332,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 108;
 				DEAD_CODE_STRIPPING = YES;
-				DEVELOPMENT_TEAM = DNP7DGUB7B;
+				DEVELOPMENT_TEAM = 5ZPWU6AY92;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
@@ -2345,7 +2347,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = "skula.wBlock.wBlock-Foreign-Experimental";
+				PRODUCT_BUNDLE_IDENTIFIER = "syferlab.wBlock.wBlock-Foreign-Experimental";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = macosx;
@@ -2362,7 +2364,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 108;
 				DEAD_CODE_STRIPPING = YES;
-				DEVELOPMENT_TEAM = DNP7DGUB7B;
+				DEVELOPMENT_TEAM = 5ZPWU6AY92;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
@@ -2377,7 +2379,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = "skula.wBlock.wBlock-Custom";
+				PRODUCT_BUNDLE_IDENTIFIER = "syferlab.wBlock.wBlock-Custom";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = macosx;
@@ -2394,7 +2396,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 108;
 				DEAD_CODE_STRIPPING = YES;
-				DEVELOPMENT_TEAM = DNP7DGUB7B;
+				DEVELOPMENT_TEAM = 5ZPWU6AY92;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
@@ -2409,7 +2411,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = "skula.wBlock.wBlock-Custom";
+				PRODUCT_BUNDLE_IDENTIFIER = "syferlab.wBlock.wBlock-Custom";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = macosx;
@@ -2425,7 +2427,7 @@
 				CODE_SIGN_ENTITLEMENTS = "wBlock Privacy (iOS)/wBlock Privacy (iOS).entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 108;
-				DEVELOPMENT_TEAM = DNP7DGUB7B;
+				DEVELOPMENT_TEAM = 5ZPWU6AY92;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "wBlock Privacy (iOS)/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "wBlock Privacy";
@@ -2437,7 +2439,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = "skula.wBlock.wBlock-Privacy-iOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "syferlab.wBlock.wBlock-Privacy-iOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -2456,7 +2458,7 @@
 				CODE_SIGN_ENTITLEMENTS = "wBlock Privacy (iOS)/wBlock Privacy (iOS).entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 108;
-				DEVELOPMENT_TEAM = DNP7DGUB7B;
+				DEVELOPMENT_TEAM = 5ZPWU6AY92;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "wBlock Privacy (iOS)/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "wBlock Privacy";
@@ -2468,7 +2470,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = "skula.wBlock.wBlock-Privacy-iOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "syferlab.wBlock.wBlock-Privacy-iOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -2488,7 +2490,7 @@
 				CODE_SIGN_ENTITLEMENTS = "wBlock Security (iOS)/wBlock Security (iOS).entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 108;
-				DEVELOPMENT_TEAM = DNP7DGUB7B;
+				DEVELOPMENT_TEAM = 5ZPWU6AY92;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "wBlock Security (iOS)/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "wBlock Security";
@@ -2500,7 +2502,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = "skula.wBlock.wBlock-Security-iOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "syferlab.wBlock.wBlock-Security-iOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -2519,7 +2521,7 @@
 				CODE_SIGN_ENTITLEMENTS = "wBlock Security (iOS)/wBlock Security (iOS).entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 108;
-				DEVELOPMENT_TEAM = DNP7DGUB7B;
+				DEVELOPMENT_TEAM = 5ZPWU6AY92;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "wBlock Security (iOS)/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "wBlock Security";
@@ -2531,7 +2533,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = "skula.wBlock.wBlock-Security-iOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "syferlab.wBlock.wBlock-Security-iOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -2551,7 +2553,7 @@
 				CODE_SIGN_ENTITLEMENTS = "wBlock Annoyances (iOS)/wBlock Annoyances (iOS).entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 108;
-				DEVELOPMENT_TEAM = DNP7DGUB7B;
+				DEVELOPMENT_TEAM = 5ZPWU6AY92;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "wBlock Annoyances (iOS)/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "wBlock Annoyances";
@@ -2563,7 +2565,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = "skula.wBlock.wBlock-Annoyances-iOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "syferlab.wBlock.wBlock-Annoyances-iOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -2582,7 +2584,7 @@
 				CODE_SIGN_ENTITLEMENTS = "wBlock Annoyances (iOS)/wBlock Annoyances (iOS).entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 108;
-				DEVELOPMENT_TEAM = DNP7DGUB7B;
+				DEVELOPMENT_TEAM = 5ZPWU6AY92;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "wBlock Annoyances (iOS)/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "wBlock Annoyances";
@@ -2594,7 +2596,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = "skula.wBlock.wBlock-Annoyances-iOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "syferlab.wBlock.wBlock-Annoyances-iOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -2614,7 +2616,7 @@
 				CODE_SIGN_ENTITLEMENTS = "wBlock Multipurpose (iOS)/wBlock Multipurpose (iOS).entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 108;
-				DEVELOPMENT_TEAM = DNP7DGUB7B;
+				DEVELOPMENT_TEAM = 5ZPWU6AY92;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "wBlock Multipurpose (iOS)/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "wBlock Multipurpose";
@@ -2626,7 +2628,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = "skula.wBlock.wBlock-Multipurpose-iOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "syferlab.wBlock.wBlock-Multipurpose-iOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -2645,7 +2647,7 @@
 				CODE_SIGN_ENTITLEMENTS = "wBlock Multipurpose (iOS)/wBlock Multipurpose (iOS).entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 108;
-				DEVELOPMENT_TEAM = DNP7DGUB7B;
+				DEVELOPMENT_TEAM = 5ZPWU6AY92;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "wBlock Multipurpose (iOS)/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "wBlock Multipurpose";
@@ -2657,7 +2659,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = "skula.wBlock.wBlock-Multipurpose-iOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "syferlab.wBlock.wBlock-Multipurpose-iOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -2677,7 +2679,7 @@
 				CODE_SIGN_ENTITLEMENTS = "wBlock Foreign (iOS)/wBlock Foreign (iOS).entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 108;
-				DEVELOPMENT_TEAM = DNP7DGUB7B;
+				DEVELOPMENT_TEAM = 5ZPWU6AY92;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "wBlock Foreign (iOS)/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "wBlock Foreign";
@@ -2689,7 +2691,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = "skula.wBlock.wBlock-Foreign-iOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "syferlab.wBlock.wBlock-Foreign-iOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -2708,7 +2710,7 @@
 				CODE_SIGN_ENTITLEMENTS = "wBlock Foreign (iOS)/wBlock Foreign (iOS).entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 108;
-				DEVELOPMENT_TEAM = DNP7DGUB7B;
+				DEVELOPMENT_TEAM = 5ZPWU6AY92;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "wBlock Foreign (iOS)/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "wBlock Foreign";
@@ -2720,7 +2722,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = "skula.wBlock.wBlock-Foreign-iOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "syferlab.wBlock.wBlock-Foreign-iOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -2740,7 +2742,7 @@
 				CODE_SIGN_ENTITLEMENTS = "wBlock Experimental (iOS)/wBlock Experimental (iOS).entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 108;
-				DEVELOPMENT_TEAM = DNP7DGUB7B;
+				DEVELOPMENT_TEAM = 5ZPWU6AY92;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "wBlock Experimental (iOS)/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "wBlock Experimental";
@@ -2752,7 +2754,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = "skula.wBlock.wBlock-Experimental-iOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "syferlab.wBlock.wBlock-Experimental-iOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -2771,7 +2773,7 @@
 				CODE_SIGN_ENTITLEMENTS = "wBlock Experimental (iOS)/wBlock Experimental (iOS).entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 108;
-				DEVELOPMENT_TEAM = DNP7DGUB7B;
+				DEVELOPMENT_TEAM = 5ZPWU6AY92;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "wBlock Experimental (iOS)/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "wBlock Experimental";
@@ -2783,7 +2785,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = "skula.wBlock.wBlock-Experimental-iOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "syferlab.wBlock.wBlock-Experimental-iOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -2803,7 +2805,7 @@
 				CODE_SIGN_ENTITLEMENTS = "wBlock Custom (iOS)/wBlock Custom (iOS).entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 108;
-				DEVELOPMENT_TEAM = DNP7DGUB7B;
+				DEVELOPMENT_TEAM = 5ZPWU6AY92;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "wBlock Custom (iOS)/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "wBlock Custom";
@@ -2815,7 +2817,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = "skula.wBlock.wBlock-Custom-iOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "syferlab.wBlock.wBlock-Custom-iOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -2834,7 +2836,7 @@
 				CODE_SIGN_ENTITLEMENTS = "wBlock Custom (iOS)/wBlock Custom (iOS).entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 108;
-				DEVELOPMENT_TEAM = DNP7DGUB7B;
+				DEVELOPMENT_TEAM = 5ZPWU6AY92;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "wBlock Custom (iOS)/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "wBlock Custom";
@@ -2846,7 +2848,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = "skula.wBlock.wBlock-Custom-iOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "syferlab.wBlock.wBlock-Custom-iOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;

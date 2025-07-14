@@ -11,9 +11,9 @@ import wBlockCoreService
 import SafariServices
 
 #if os(macOS)
-let APP_CONTENT_BLOCKER_ID = "skula.wBlock.wBlock-Filters"
+let APP_CONTENT_BLOCKER_ID = "syferlab.wBlock.wBlock-Filters"
 #else
-let APP_CONTENT_BLOCKER_ID = "skula.wBlock.wBlock-Filters-iOS"
+let APP_CONTENT_BLOCKER_ID = "syferlab.wBlock.wBlock-Filters-iOS"
 #endif
 
 @MainActor
